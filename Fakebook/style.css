@@ -1,0 +1,60 @@
+body {
+  font-family: arial;
+  background-color: floralwhite;
+  margin: 10px 10px;
+}
+#k {
+  color: tomato;
+}
+.header,
+.image_bottom {
+  background-image: url("https://i.pinimg.com/564x/79/f6/db/79f6dbfc052f9f714e3637a0ec7d1708.jpg");
+  width: 289px;
+  height: 30px;
+  border: 1px tomato solid;
+  margin-top: 10px;
+  }
+.form {
+    width: 100px;
+  }
+h1 {
+  font-family: papyrus;
+  font-size: 36px;
+  margin: 5px auto;
+}
+.h2 {
+  color: tomato;
+  font-weight: 750;
+  letter-spacing: 3px;
+}
+.image {
+  border: 3px black solid;
+  width:285px;
+  height: 285px;
+  border-radius: 15px;
+}
+.image:hover {
+  border: 3px tomato dotted
+}
+table {
+  width: 291px;
+  border-spacing: 3px;
+}
+table th,
+td {
+  border-style: solid;
+  border-width: thin;
+  font-size: 15px;
+  padding: 3px;
+}
+table th {
+  border-color: tomato;
+  background-color: floralwhite;
+  text-align: right;
+}
+table td {
+  border-color: black;
+  background-color: tomato;
+  color: floralwhite;
+  text-align: left;
+}

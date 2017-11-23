@@ -1,0 +1,129 @@
+.header {
+  height: 58px;
+  width: auto;
+  position: relative;
+}
+.gmail ul li {
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  text-align: center;
+  color: #8e9095;
+  word-spacing: 18px;
+  padding: 5px;
+  display: inline;
+}
+ .gmail li:hover,
+ .bot-left li:hover,
+ .bot-right li:hover {
+  text-decoration: underline;
+}
+.gmail {
+  right: 95px;
+  position: absolute;
+}
+.iconos {
+  right: 10px;
+  position: absolute;
+  padding: 14px;
+  word-spacing: 15px;
+}
+.main {
+  width: 600px;
+  height: 420px;
+  margin: 0 auto;
+  position: relative;
+}
+.boogle-logo {
+  top: 130px;
+  left: 165px;
+  position: relative;
+}
+.img-boogle {
+  height: 90px;
+  width: auto;
+}
+.buscar-img {
+  height: 40px;
+  width: 560px;
+}
+.buscar {
+  position: relative;
+  top: 180px;
+  left: 15px;
+}
+.mic-img {
+  height: 35px;
+  width: auto;
+}
+.mic {
+  position: absolute;
+  top: 4px;
+  right: 40px;
+}
+.buttons-search ul li {
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: #767689;
+  background-color: #f6f5f5;
+  padding: 10px;
+  border-radius: 2px;
+  display: inline;
+}
+.buttons-search {
+  position: absolute;
+  bottom: 30px;
+  left: 120px;
+}
+.buttons-search li:hover {
+  border: 1px solid darkgrey;
+  color: black;
+}
+.footer1 {
+  bottom: 45px;
+}
+.footer1,
+.footer2 {
+  position: absolute;
+  left: 0;
+  border-top: 1px solid #e4e4e4;
+  height: 45px;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+.esp {
+  bottom: 55px;
+  left: 0;
+}
+.esp p,
+.bot-left li,
+.bot-right li {
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  color: #8e9095;
+}
+.bot-left li,
+.bot-right li {
+  display: inline;
+  padding-right: 10px;
+}
+.esp p {
+  font-size: 15px;
+  margin-left: 20px;
+}
+.footer2 {
+  bottom: 0;
+}
+.bot-left {
+  position: absolute;
+  float: left;
+  left: 0;
+}
+.bot-right {
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+}
+.bot-left ul {
+  padding-left: 20px;
+}

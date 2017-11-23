@@ -1,0 +1,10 @@
+.carousel-inner img {
+  margin: auto;
+}
+#appointment {
+  padding-bottom: 20px;
+}
+th,
+.btn {
+  background-color: lightgray;
+}
